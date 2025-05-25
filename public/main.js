@@ -44,7 +44,7 @@ submit.addEventListener("click", displaySuggestions);
 byteSize
 */
 // information to reach API
-const apiKey = "<Your API Key>";
+const apiKey = "c252eea52d0f4f54b8f9dbfa03462e62";
 const rebrandlyEndpoint = "https://api.rebrandly.com/v1/links";
 
 // Some page elements
