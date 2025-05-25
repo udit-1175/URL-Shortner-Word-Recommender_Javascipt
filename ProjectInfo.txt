@@ -1,0 +1,1 @@
+We have used API key from rebrandly. After logging in rebrandly using google account headover to profile section to find API key which we have used.
